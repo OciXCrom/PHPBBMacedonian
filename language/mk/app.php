@@ -41,8 +41,8 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'CONTROLLER_ARGUMENT_VALUE_MISSING'	=> 'Missing value for argument #%1$s: <strong>%3$s</strong> in class <strong>%2$s</strong>',
-	'CONTROLLER_NOT_SPECIFIED'			=> 'No controller has been specified.',
-	'CONTROLLER_METHOD_NOT_SPECIFIED'	=> 'No method was specified for the controller.',
-	'CONTROLLER_SERVICE_UNDEFINED'		=> 'The service for controller “<strong>%s</strong>” is not defined in ./config/services.yml.',
+	'CONTROLLER_ARGUMENT_VALUE_MISSING'	=> 'Недостасува вредност за аргумент #%1$s: <strong>%3$s</strong> во класа <strong>%2$s</strong>',
+	'CONTROLLER_NOT_SPECIFIED'			=> 'Не е наведен контролер.',
+	'CONTROLLER_METHOD_NOT_SPECIFIED'	=> 'Не е избран метод за контролерот.',
+	'CONTROLLER_SERVICE_UNDEFINED'		=> 'Услугата за контролерот “<strong>%s</strong>” не е дефинирана во ./config/services.yml.',
 ));

@@ -37,16 +37,16 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'RECAPTCHA_LANG'				=> 'en',
-	'RECAPTCHA_NOT_AVAILABLE'		=> 'In order to use reCaptcha, you must create an account on <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
+	'RECAPTCHA_LANG'				=> 'mk',
+	'RECAPTCHA_NOT_AVAILABLE'		=> 'За да можете да користите reCaptcha, морате да создадете сметка на <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 	'CAPTCHA_RECAPTCHA'				=> 'reCaptcha',
-	'RECAPTCHA_INCORRECT'			=> 'The solution you provided was incorrect',
-	'RECAPTCHA_NOSCRIPT'			=> 'Please enable JavaScript in your browser to load the challenge.',
+	'RECAPTCHA_INCORRECT'			=> 'Даденото решение е погрешно',
+	'RECAPTCHA_NOSCRIPT'			=> 'Ве молиме активирајте JavaScript во вашиот прелистувач за да го активирате предизвикот.',
 
-	'RECAPTCHA_PUBLIC'				=> 'Public reCaptcha key',
-	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'Your public reCaptcha key. Keys can be obtained on <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
-	'RECAPTCHA_PRIVATE'				=> 'Private reCaptcha key',
-	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'Your private reCaptcha key. Keys can be obtained on <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
+	'RECAPTCHA_PUBLIC'				=> 'Јавен reCaptcha клуч',
+	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'Вашиот јавен reCaptcha клуч. Клучеви може да се добијат на <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
+	'RECAPTCHA_PRIVATE'				=> 'Приватен reCaptcha клуч',
+	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'Вашиот приватен reCaptcha клуч. Клучеви може да се добијат на <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 
-	'RECAPTCHA_EXPLAIN'				=> 'In an effort to prevent automatic submissions, we require that you complete the following challenge.',
+	'RECAPTCHA_EXPLAIN'				=> 'Со цел да спречиме автоматски регистрации од ботови, од Вас бараме да го завршите следниов предизвик.',
 ));

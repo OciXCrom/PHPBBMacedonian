@@ -37,28 +37,28 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'CAPTCHA_QA'				=> 'Q&amp;A',
-	'CONFIRM_QUESTION_EXPLAIN'	=> 'This question is a means of preventing automated form submissions by spambots.',
-	'CONFIRM_QUESTION_WRONG'	=> 'You have provided an invalid answer to the question.',
-	'CONFIRM_QUESTION_MISSING'	=> 'Questions for the captcha could not be retrieved. Please contact a board administrator.',
+	'CAPTCHA_QA'				=> 'П&amp;О',
+	'CONFIRM_QUESTION_EXPLAIN'	=> 'Ова прашање е средство за спречување на автоматски регистрации од страна на ботови.',
+	'CONFIRM_QUESTION_WRONG'	=> 'Дадовте неправилен одговор на прашањето.',
+	'CONFIRM_QUESTION_MISSING'	=> 'Преземањето на прашањата беше неуспешно. Ве молиме контактирајте со администратор на сајтот.',
 
-	'QUESTION_ANSWERS'			=> 'Answers',
-	'ANSWERS_EXPLAIN'			=> 'Please enter valid answers to the question, one per line.',
-	'CONFIRM_QUESTION'			=> 'Question',
+	'QUESTION_ANSWERS'			=> 'Одговори',
+	'ANSWERS_EXPLAIN'			=> 'Внесете валидни одговори за прашањето, по еден на секој ред.',
+	'CONFIRM_QUESTION'			=> 'Прашање',
 
-	'ANSWER'					=> 'Answer',
-	'EDIT_QUESTION'				=> 'Edit Question',
-	'QUESTIONS'					=> 'Questions',
-	'QUESTIONS_EXPLAIN'			=> 'For every form submission where you have enabled the Q&amp;A plugin, users will be asked one of the questions specified here. To use this plugin at least one question must be set in the default language. These questions should be easy for your target audience to answer but beyond the ability of a bot capable of running a Google™ search. Using a large and regularly changed set of questions will yield the best results. Enable the strict setting if your question relies on mixed case, punctuation or whitespace.',
-	'QUESTION_DELETED'			=> 'Question deleted',
-	'QUESTION_LANG'				=> 'Language',
-	'QUESTION_LANG_EXPLAIN'		=> 'The language this question and its answers are written in.',
-	'QUESTION_STRICT'			=> 'Strict check',
-	'QUESTION_STRICT_EXPLAIN'	=> 'Enable to enforce mixed case, punctuation and whitespace.',
+	'ANSWER'					=> 'Одговор',
+	'EDIT_QUESTION'				=> 'Промени прашање',
+	'QUESTIONS'					=> 'Прашања',
+	'QUESTIONS_EXPLAIN'			=> 'За секој поднесок во формуларот каде што сте го активирале П&amp;О прилучокот, на корисниците ќе им биде поставено едно од прашањата наведени тука. За да можете да го користите овој приклучок, најмалку едно прашање мора да биде наведено на стандардниот јазик. Овие прашања би требало да бидат лесни за Вашата таргетирана публика да може да даде точен одговор, но надвор од способноста на бот способен да изврши Google™ пребарување. Користењето на голем и редовно променуван сет на прашања ќе даде најдобри резултати. Активирајте го строгиот режим доколку Вашето прашање содржи мешана големина на букви, интерпункција или празен простор.',
+	'QUESTION_DELETED'			=> 'Прашањето е избришано',
+	'QUESTION_LANG'				=> 'Јазик',
+	'QUESTION_LANG_EXPLAIN'		=> 'Јазикот на кој прашањата и одговорите се напишани.',
+	'QUESTION_STRICT'			=> 'Строг режим',
+	'QUESTION_STRICT_EXPLAIN'	=> 'Активирајте го за да дозволите проверка на мали и големи букви, интерпункција и празен простор.',
 
-	'QUESTION_TEXT'				=> 'Question',
-	'QUESTION_TEXT_EXPLAIN'		=> 'The question presented to the user.',
+	'QUESTION_TEXT'				=> 'Прашање',
+	'QUESTION_TEXT_EXPLAIN'		=> 'Прашањето поставено на корисникот.',
 
-	'QA_ERROR_MSG'				=> 'Please fill in all fields and enter at least one answer.',
-	'QA_LAST_QUESTION'			=> 'You cannot delete all questions while the plugin is active.',
+	'QA_ERROR_MSG'				=> 'Ве молиме пополнете ги сите полиња и внесете најмалку еден одговор.',
+	'QA_LAST_QUESTION'			=> 'Не можете да ги избришете сите прашања додека приклучокот е активен.',
 ));
