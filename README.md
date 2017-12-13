@@ -1,7 +1,7 @@
 # PHPBBMacedonian [work in progress]
 Macedonian language pack for phpBB 3.2.
+You can see the translated and untranslated files down below.
 
-**Translated files**: 61/99
 ```diff
 + ext/phpbb/viglink/language/mk/info_acp_viglink.php
 + ext/phpbb/viglink/language/mk/viglink_module_acp.php
