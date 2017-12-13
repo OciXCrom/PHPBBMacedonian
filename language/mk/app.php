@@ -41,7 +41,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'CONTROLLER_ARGUMENT_VALUE_MISSING'	=> 'Недостасува вредност за аргумент #%1$s: <strong>%3$s</strong> во класа <strong>%2$s</strong>',
+	'CONTROLLER_ARGUMENT_VALUE_MISSING'	=> 'Недостасува вредност за аргументот #%1$s: <strong>%3$s</strong> во класа <strong>%2$s</strong>',
 	'CONTROLLER_NOT_SPECIFIED'			=> 'Не е наведен контролер.',
 	'CONTROLLER_METHOD_NOT_SPECIFIED'	=> 'Не е избран метод за контролерот.',
 	'CONTROLLER_SERVICE_UNDEFINED'		=> 'Услугата за контролерот “<strong>%s</strong>” не е дефинирана во ./config/services.yml.',
