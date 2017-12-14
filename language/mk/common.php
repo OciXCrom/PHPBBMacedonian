@@ -857,7 +857,7 @@ $lang = array_merge($lang, array(
 	'USER_NEW_PERMISSION_DISALLOWED'	=> 'Се извинуваме, но Вие не сте овластени да ја користите оваа функција. Можеби штотуку сте се регистрирале и треба да учествувате во повеќе дискусии за да добиете овластување.',
 
 	'VARIANT_DATE_SEPARATOR'	=> ' / ',	// Used in date format dropdown, eg: "Today, 13:37 / 01 Jan 2007, 13:37" ... to join a relative date with calendar date
-	'VIEWED'					=> 'Прегледи',
+	'VIEWED'					=> 'Прегледано',
 	'VIEWED_COUNTS'		=> array(
 		0	=> 'Сè уште не е прегледано',
 		1	=> 'Преледано %d пат',
