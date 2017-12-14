@@ -93,7 +93,7 @@ You can see the translated and untranslated files down below.
 + language/mk/iso.txt
 - language/mk/mcp.php
 + language/mk/memberlist.php
-- language/mk/migrator.php
++ language/mk/migrator.php
 - language/mk/plupload.php
 - language/mk/posting.php
 - language/mk/search.php
