@@ -96,7 +96,7 @@ You can see the translated and untranslated files down below.
 + language/mk/migrator.php
 - language/mk/plupload.php
 - language/mk/posting.php
-- language/mk/search.php
++ language/mk/search.php
 - language/mk/ucp.php
 - language/mk/viewforum.php
 - language/mk/viewtopic.php
