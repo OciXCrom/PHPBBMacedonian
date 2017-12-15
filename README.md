@@ -95,11 +95,11 @@ You can see the translated and untranslated files down below.
 + language/mk/memberlist.php
 + language/mk/migrator.php
 + language/mk/plupload.php
-- language/mk/posting.php
+- language/mk/posting.php (61%)
 + language/mk/search.php
 - language/mk/ucp.php
 + language/mk/viewforum.php
 + language/mk/viewtopic.php
-- styles/prosilver/theme/mk/icon_user_online.gif
-- styles/prosilver/theme/mk/stylesheet.css
++ styles/prosilver/theme/mk/icon_user_online.gif
++ styles/prosilver/theme/mk/stylesheet.css
 ```
