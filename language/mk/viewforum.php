@@ -59,7 +59,7 @@ $lang = array_merge($lang, array(
 
 	'POST_FORUM_LOCKED'		=> 'Форумот е заклучен',
 
-	'TOPICS_MARKED'			=> 'The topics for this forum have now been marked read.',
+	'TOPICS_MARKED'			=> 'Темите во форумот се обележани како прочитани.',
 
 	'UNREAD_POSTS_HOT'		=> 'Непрочитани мислења [ Популарна ]',
 	'UNREAD_POSTS_LOCKED'	=> 'Непрочитани мислења [ Заклучена ]',

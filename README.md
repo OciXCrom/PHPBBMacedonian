@@ -87,7 +87,7 @@ You can see the translated and untranslated files down below.
 + language/mk/captcha_recaptcha.php
 - language/mk/cli.php
 + language/mk/common.php
-- language/mk/groups.php
++ language/mk/groups.php
 + language/mk/index.htm
 - language/mk/install.php
 + language/mk/iso.txt
