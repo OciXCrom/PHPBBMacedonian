@@ -95,7 +95,7 @@ You can see the translated and untranslated files down below.
 + language/mk/memberlist.php
 + language/mk/migrator.php
 + language/mk/plupload.php
-- language/mk/posting.php (61%)
++ language/mk/posting.php
 + language/mk/search.php
 - language/mk/ucp.php
 + language/mk/viewforum.php
