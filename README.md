@@ -97,7 +97,7 @@ You can see the translated and untranslated files down below.
 + language/mk/plupload.php
 + language/mk/posting.php
 + language/mk/search.php
-- language/mk/ucp.php
+- language/mk/ucp.php (28%)
 + language/mk/viewforum.php
 + language/mk/viewtopic.php
 + styles/prosilver/theme/mk/icon_user_online.gif
